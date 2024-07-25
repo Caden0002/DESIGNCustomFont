@@ -1,19 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
 
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Brockmann';
+  src: url('../static/fonts/brockmann-medium.ttf') format('truetype');
+}
 
 @layer base {
     html {
         @apply scroll-smooth;
     }
     body {
-/*font-family: 'Poppins', sans-serif;*/
-
-
+        /* font-family: 'Kalnia Glaze', sans-serif; */
     }
 }

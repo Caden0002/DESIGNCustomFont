@@ -1,8 +1,23 @@
-# React + Vite
+![](https://github.com/Caden0002/DESIGNCustomFont/blob/main/CustomFont.png)
+#### How to Install and Run the Project ####
+1. Open Terminal at the project's CD<br />
+2. rm -rf node_modules && rm package-lock.json && npm install<br />
+3. npm run dev<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# DESIGNCustomFont
+This project shows the different technique to apply custom fonts, from Google Fonts to Custom Font System Classes with Tailwind <br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn more about implementing custom cursor in React here:<br />
+https://medium.com/@caden0002/the-go-to-guide-for-custom-fonts-with-react-and-tailwind-css-0f6468af2edb
+
+
+## Tech Stack ##
+React<br />
+Tailwind<br />
+CSS<br />
+
+
+
+
+
